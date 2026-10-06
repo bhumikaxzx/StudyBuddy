@@ -2,7 +2,7 @@
 
 StudyBuddy is a modern AI-powered study platform that helps students manage notes, plan study sessions, practice recall, generate quizzes and flashcards, and ask questions about their own study material.
 
-The project started from the EduMind study-assistant concept and has been upgraded into a React + Firebase + Gemini application with a dedicated AI backend.
+StudyBuddy is a modern React + Firebase + Gemini powered learning platform with a dedicated AI backend.
 
 > **Project status:** Active development  
 > **Frontend:** React + Vite  
@@ -456,26 +456,10 @@ Planned improvements include:
 - More robust AI source citations
 - Collaborative study features
 
----
-
-## 🧑‍💻 Development Notes
-
-StudyBuddy is a modernization and expansion of the original **EduMind – AI Study Assistant** concept.
-
-The current version replaces the earlier static HTML/CSS/JavaScript architecture with a React/Vite frontend and adds a dedicated AI backend, Firebase Authentication, Firestore integration, and Gemini-powered study tools.
-
-Original EduMind repository:
-
-```text
-https://github.com/dimpal-yadav/EduMind-AI-Study-Assistant
-```
-
----
 
 ## 📄 License
 
-This project includes code derived from the original EduMind project and remains subject to the applicable repository license.
-
+This project is licensed under the MIT License. See the `LICENSE` file for details.
 See:
 
 ```text
