@@ -1,4 +1,7 @@
 # 🎓 StudyBuddy — AI Study Assistant
+## 🌐 Live Demo
+
+[🚀 Open StudyBuddy](https://study-buddy-eight-theta.vercel.app)
 
 StudyBuddy is a modern AI-powered study platform that helps students manage notes, plan study sessions, practice recall, generate quizzes and flashcards, and ask questions about their own study material.
 

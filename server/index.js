@@ -319,3 +319,9 @@ app.listen(port, () => {
   console.log(`StudyBuddy AI server listening on http://localhost:${port}`);
   console.log(process.env.GEMINI_API_KEY ? `Gemini AI enabled (${model}).` : "GEMINI_API_KEY is missing; frontend will show Local mode.");
 });
+app.get("/", (req, res) => {
+  res.json({
+    message: "StudyBuddy API is running 🚀",
+    status: "online",
+  });
+});
