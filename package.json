@@ -1,0 +1,11 @@
+{
+  "name": "studybuddy-2.2-gemini",
+  "private": true,
+  "version": "2.2.0",
+  "scripts": {
+    "dev": "npm --prefix studymate-react run dev",
+    "build": "npm --prefix studymate-react run build",
+    "server": "npm --prefix server run dev",
+    "install:all": "npm --prefix studymate-react install && npm --prefix server install"
+  }
+}
